@@ -1,3 +1,20 @@
+# More exercises
+https://open.kattis.com/problems (all sorts of problems)
+
+https://projecteuler.net/archives (math problems)
+
+https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/ (very easy)
+
+https://www.practicepython.org/ 
+
+https://www.hackinscience.org/exercises/ 
+
+# Exercise 0 
+Write a program that calculates the average (arithmetic mean) of a list of numbers
+
+# Exercise 0.1 
+Write a program that calculates the median of a list of numbers
+
 # Exercise 1
 Write a Python program to find those numbers which are divisible by 7 and multiples of 5, between 1500 and 2700 (both included).
 
@@ -72,3 +89,94 @@ Expected Output:
 7777777
 88888888
 999999999
+
+# Exercise 9
+Write a Python program to find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five. Return True otherwise False.
+
+Input:
+
+[19, 19, 15, 5, 3, 5, 5, 2]
+
+Output:
+
+True
+
+Input:
+
+[19, 15, 15, 5, 3, 3, 5, 2]
+
+Output:
+
+False
+
+Input:
+
+[19, 19, 5, 5, 5, 5, 5]
+
+Output:
+
+True
+
+# Exercise 10
+Write a Python program that accepts a list of integers and calculates the length and the fifth element. Return true if the length of the list is 8 and the fifth element occurs thrice in the said list.
+
+Input:
+
+[19, 19, 15, 5, 5, 5, 1, 2]
+
+Output:
+
+True
+
+Input:
+
+[19, 15, 5, 7, 5, 5, 2]
+
+Output:
+
+False
+
+Input:
+
+[11, 12, 14, 13, 14, 13, 15, 14]
+
+Output:
+
+True
+
+Input:
+
+[19, 15, 11, 7, 5, 6, 2]
+
+Output:
+False
+
+# Exercise 11
+4. We are making n stone piles! The first pile has n stones. If n is even, then all piles have an even number of stones. If n is odd, all piles have an odd number of stones. Each pile must more stones than the previous pile but as few as possible. Write a Python program to find the number of stones in each pile.
+
+Input: 2
+
+Output:
+
+[2, 4]
+
+Input: 10
+
+Output:
+
+
+[10, 12, 14, 16, 18, 20, 22, 24, 26, 28]
+
+Input: 3
+
+Output:
+
+[3, 5, 7]
+
+Input: 17
+
+Output:
+
+[17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]
+
+
